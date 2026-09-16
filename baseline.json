@@ -1,0 +1,546 @@
+{
+  "version": 3,
+  "region_type": "grid",
+  "bbox_format": "normalized_xywh",
+  "reference_frame": "baseline_reference.jpg",
+  "grid": {
+    "rows": 6,
+    "columns": 8
+  },
+  "source": {
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": 1.777778
+  },
+  "calibration_frame_count": 3,
+  "tiles": {
+    "T_r0c0": {
+      "normalized_bbox": [
+        0.0,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "description": "An individual in a gray jacket with a striped pattern holds a coffee cup with a white lid and brown sleeve, standing in the center of the frame with a white paper and a gray trash can in the background.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r0c1": {
+      "normalized_bbox": [
+        0.125,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "description": "The dark desk with a laptop, printer, white box, and a white t-shirt worn horizontally by a person, with a cable running from the lower left to the right side, plugged in, and its other end unattached, is visible.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r0c2": {
+      "normalized_bbox": [
+        0.25,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a person viewed from behind wearing a gray hoodie with a dark hood. A black cable is connected to the person's left ear, extending from the lower right side of the image to the left side of the person's head. The cable's other end is attached to",
+      "observation_count": 1,
+      "status": "calibrating"
+    },
+    "T_r0c3": {
+      "normalized_bbox": [
+        0.375,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "description": "",
+      "observation_count": 0,
+      "status": "calibrating"
+    },
+    "T_r0c4": {
+      "normalized_bbox": [
+        0.5,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "description": "The laptop is on a desk, its left side connected to a power strip and right side unattached, with the power strip plugged in, and the person in the foreground wearing a yellow shirt is seated at the desk looking at the laptop screen.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r0c5": {
+      "normalized_bbox": [
+        0.625,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "description": "The laptop is open and plugged in, with its left port connected to a power strip, and the right port connected to a power strip, both of which are plugged in.",
+      "observation_count": 1,
+      "status": "calibrating"
+    },
+    "T_r0c6": {
+      "normalized_bbox": [
+        0.75,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a table with a white tote bag, a coffee cup, and a blue and white bottle on it. A black cable runs from the bottom right of the table to the top right of the table, with the end of the cable plugged into a power outlet. The",
+      "observation_count": 1,
+      "status": "calibrating"
+    },
+    "T_r0c7": {
+      "normalized_bbox": [
+        0.875,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a person in a tan uniform sitting at a desk with a computer monitor, a microphone, and a cable running from the monitor to a device on the desk. The person is facing the monitor, which is turned on, and the cable is plugged into the monitor's",
+      "observation_count": 1,
+      "status": "calibrating"
+    },
+    "T_r1c0": {
+      "normalized_bbox": [
+        0.0,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "description": "The left side of a gray textured surface has a white connector cable attached to it, extending from the lower left corner to the center of the image, with its right end connected to a black object on the right side.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r1c1": {
+      "normalized_bbox": [
+        0.125,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a dark-colored couch with a white box on top, a white t-shirt with a horizontal seam at the bottom, and a white cable running from the right side to the left side, with its end connected to a white object in the.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r1c2": {
+      "normalized_bbox": [
+        0.25,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "description": "The laptop is on a textured surface, with a cable extending from its left side port, plugged into a power strip, and the power cord is visible with its end plugged in.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r1c3": {
+      "normalized_bbox": [
+        0.375,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "description": "The laptop's left port is attached to a power strip, which is plugged in and connected to a wall outlet.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r1c4": {
+      "normalized_bbox": [
+        0.5,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "description": "The person is sitting in a chair with a laptop on their lap, a white cable plugged into the laptop's left port, and the cable's other end connected to a power source.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r1c5": {
+      "normalized_bbox": [
+        0.625,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "description": "The wicker chair's backrest is upright, with a cable running from its left side to a white box on the floor, which is plugged in.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r1c6": {
+      "normalized_bbox": [
+        0.75,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "description": "The yellow and black striped cable lies coiled on the floor, with its left end connected to a black electrical outlet and its right end plugged into a white power strip, which is connected to a white power strip, both of which are plugged in.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r1c7": {
+      "normalized_bbox": [
+        0.875,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "description": "The table holds a closed laptop, with two white cables extending from its left side port\u2014one connected to a power strip and the other's end is unattached.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r2c0": {
+      "normalized_bbox": [
+        0.0,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "description": "An empty plastic cup with a white straw sits on a table next to a black box with \"Scaling Physical AI\" text, a clear plastic cup with a white paper towel inside, and a person's leg in a dark suit on the left side of.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r2c1": {
+      "normalized_bbox": [
+        0.125,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "description": "An open black box with \"Scaling Physical AI\" text on its side, a white plastic cup with a white straw next to it, and a white cable connected to the box, all on a white surface, with a black rectangular object to the left of.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r2c2": {
+      "normalized_bbox": [
+        0.25,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "description": "A laptop with a red keyboard is placed on a table. A white cable is connected to the laptop's left port. A white cable is connected to the laptop's right port. A white cable is connected to the laptop's power port. A white cable is connected to the laptop's left port. A white cable is connected to the laptop's right port. A white cable is connected to the laptop's power port.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r2c3": {
+      "normalized_bbox": [
+        0.375,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "description": "An open black box with \"Scaling Physical AI\" text on its side is on a table, with four white cables connected to it: one to the left port, one to the right port, one to the power port, and one to the left port, and.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r2c4": {
+      "normalized_bbox": [
+        0.5,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "description": "An open black box with \"Scaling Physical AI\" on its side is on a table, connected to a white cable at its left port, a white cable at its right port, and a white cable at its power port, with the power cord plugged in.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r2c5": {
+      "normalized_bbox": [
+        0.625,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "description": "The open laptop displays a dark screen with a login interface, its power cord plugged into a power strip on the right side of the image, with the left end connected to the laptop's power port.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r2c6": {
+      "normalized_bbox": [
+        0.75,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a green bag with a black strap on the right side, a white plastic cup on the left, and a yellow and black striped line on the left, with the bag upright and positioned on the right side of the image, and.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r2c7": {
+      "normalized_bbox": [
+        0.875,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a dark-colored bag with a strap, positioned in the lower left corner, with a black cable extending from the bag's top left corner, connecting to a black object on the right side of the image. The cable is attached and plugged in.",
+      "observation_count": 1,
+      "status": "calibrating"
+    },
+    "T_r3c0": {
+      "normalized_bbox": [
+        0.0,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "description": "The woven chair with a light-colored, textured backrest has a long, thin, light-colored object resting horizontally on its backrest, the object is connected to a white cable extending from a dark rectangular object on the left, the cable is plugged into a power strip on.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r3c1": {
+      "normalized_bbox": [
+        0.125,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a dark, textured tablecloth with a laptop, a white cable connected to a small black device, and a cable extending from the right side of the device to a power strip on the left, which is plugged in.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r3c2": {
+      "normalized_bbox": [
+        0.25,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a dark, flat surface with a laptop positioned horizontally on it.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r3c3": {
+      "normalized_bbox": [
+        0.375,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a dark, flat surface with a black cable connected to a device on the right side, and a black cable with a silver connector on the left side, plugged into the device.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r3c4": {
+      "normalized_bbox": [
+        0.5,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "description": "The black cable has its left end connected to a blue device and its right end connected to a white device, both on a dark surface, with the cable positioned vertically and the power strip connected to a wall outlet.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r3c5": {
+      "normalized_bbox": [
+        0.625,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "description": "The snake is coiled around the edge of a dark surface, with its body extending horizontally across the lower portion of the image, a thin light-colored cable runs from the top right corner to the bottom left corner, with its end connected to a device.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r3c6": {
+      "normalized_bbox": [
+        0.75,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "description": "The black table holds a black tablet and a white cable, with the cable connected to the tablet and the table, and the table on a flat surface, with a wicker chair in front.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r3c7": {
+      "normalized_bbox": [
+        0.875,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "description": "The floor is a gray, textured surface with a pattern of light and dark patches, a black cable runs horizontally across the lower edge, its left end connected to a black object at the top left corner, and its right end plugged into a black.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r4c0": {
+      "normalized_bbox": [
+        0.0,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a dark brown, woven mesh material with a diagonal pattern, positioned against a lighter, textured background, with a small light-colored patch on the right side of the backrest, and a dark, textured surface on the left side, in a stationary state, with.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r4c1": {
+      "normalized_bbox": [
+        0.125,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a dark brown, woven material with a diagonal pattern of interwoven strands, positioned on the right side of the image, with a dark, textured surface on the left side, and a white cable attached to the right side of the material, with.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r4c2": {
+      "normalized_bbox": [
+        0.25,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "description": "The image shows a light beige textured surface on the left, a dark blue area above, and a light gray textured surface on the right, with a small, round, metallic object attached to the right surface, a dark brown woven wicker chair backrest against a.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r4c3": {
+      "normalized_bbox": [
+        0.375,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "description": "The dark brown woven wicker chair backrest is against a light-colored wall, with a small light-colored patch on the right side, and a white cable connected to its lower left side.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r4c4": {
+      "normalized_bbox": [
+        0.5,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "description": "The black umbrella is vertically positioned, with its left end connected to a black cable extending leftward, its right end connected to a white cable extending rightward, and both cables are attached to the umbrella's frame, with the white cable's end plugged in.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r4c5": {
+      "normalized_bbox": [
+        0.625,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "description": "The dark brown, textured surface features a repeating pattern of interlocking hexagons with a horizontal light-colored line at the top edge, showing a smooth, flat surface with consistent fine-grained texture and no visible edges or protrusions.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r4c6": {
+      "normalized_bbox": [
+        0.75,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "description": "The dark brown woven backrest of an outdoor chair is visible, with a black cable running vertically from the bottom right corner to the top left corner, plugged into a black electrical outlet on the right side.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r4c7": {
+      "normalized_bbox": [
+        0.875,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "description": "",
+      "observation_count": 0,
+      "status": "calibrating"
+    },
+    "T_r5c0": {
+      "normalized_bbox": [
+        0.0,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "description": "The dark, woven fabric surface with a small white circular object attached to its right edge, positioned at the edge of the fabric, with the object not connected to any other visible object, and the fabric in contact with a dark, textured surface.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r5c1": {
+      "normalized_bbox": [
+        0.125,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "description": "The dark woven fabric surface with a white circular object attached to its right side, positioned at the edge of the fabric, on a dark textured surface with a blurred light-colored background, and the white rectangular object is attached to the right side of the.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r5c2": {
+      "normalized_bbox": [
+        0.25,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "description": "The dark woven fabric surface with a white circular object attached to its right edge, positioned at the edge of the fabric, with the background as a blurred light-colored surface, and the white rectangular object connected to the fabric.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r5c3": {
+      "normalized_bbox": [
+        0.375,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "description": "The dark woven fabric surface has a small white circular object attached to its right side, with a white rectangular object connected to the fabric's right side, and the fabric is on a dark textured surface with a blurred light-colored background.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r5c4": {
+      "normalized_bbox": [
+        0.5,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "description": "A black cable runs horizontally across the image, with its left end attached to a device on the left side of the frame and its right end plugged into a power strip on the right side, which is connected to a wall outlet.",
+      "observation_count": 3,
+      "status": "calibrating"
+    },
+    "T_r5c5": {
+      "normalized_bbox": [
+        0.625,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "description": "The image displays a dark brown, textured surface with a woven pattern, appearing to be a fabric or material with a consistent, fine-grained texture. The surface is uniform, with no visible objects or connections. The material is flat and has a matte finish, with no visible edges",
+      "observation_count": 1,
+      "status": "calibrating"
+    },
+    "T_r5c6": {
+      "normalized_bbox": [
+        0.75,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "description": "DESCRIPTION: A black, textured object with a white rectangular strip on its lower right side is upright, attached to a white cable running vertically along the left, with the cable's end connected to a white rectangular object on the right side of the image.",
+      "observation_count": 2,
+      "status": "calibrating"
+    },
+    "T_r5c7": {
+      "normalized_bbox": [
+        0.875,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "description": "The yellow and black striped object is a yellow strip at the bottom left corner of a dark, textured surface, with its yellow end connected to a black cable extending to the lower right corner, and the black end of the cable connected to a.",
+      "observation_count": 3,
+      "status": "calibrating"
+    }
+  }
+}

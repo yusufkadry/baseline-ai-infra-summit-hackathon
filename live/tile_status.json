@@ -1,0 +1,604 @@
+{
+  "version": 1,
+  "region_type": "grid",
+  "bbox_format": "normalized_xywh",
+  "sequence": 1,
+  "completed_unix_ms": 1777323056103,
+  "captured_unix_ms": 1777322987478,
+  "source_image": "/workspace/tripwire/live/latest_frame.jpg",
+  "source_frame": {
+    "device": 48,
+    "inode": 63605,
+    "size": 530060,
+    "mtime_ns": 1789523690034033232
+  },
+  "grid": {
+    "rows": 6,
+    "columns": 8
+  },
+  "watch": {
+    "batch_mode": "single_tile_requests",
+    "request_count": 24,
+    "parse_failure_count": 0,
+    "inference_seconds": 68.168,
+    "wall_clock_seconds": 68.623
+  },
+  "tiles": {
+    "T_r0c0": {
+      "normalized_bbox": [
+        0.0,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r0c1": {
+      "normalized_bbox": [
+        0.125,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "observation": "The cable running from the lower left to the right side of the image is unattached, as it extends from a plug to a socket and is not connected to anything.",
+      "verdict": "MATCH",
+      "reason": "DOES NOT CONTRADICT",
+      "status": "normal"
+    },
+    "T_r0c2": {
+      "normalized_bbox": [
+        0.25,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r0c3": {
+      "normalized_bbox": [
+        0.375,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r0c4": {
+      "normalized_bbox": [
+        0.5,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r0c5": {
+      "normalized_bbox": [
+        0.625,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r0c6": {
+      "normalized_bbox": [
+        0.75,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a black cable running from the bottom right of the table to the top right, with its end plugged into a power outlet, which is consistent with the baseline's claim of a cable running from the bottom right to the top right and plugged into a power outlet.",
+      "verdict": "MATCH",
+      "reason": "DOES NOT CONTRADICT",
+      "status": "normal"
+    },
+    "T_r0c7": {
+      "normalized_bbox": [
+        0.875,
+        0.0,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r1c0": {
+      "normalized_bbox": [
+        0.0,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r1c1": {
+      "normalized_bbox": [
+        0.125,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a dark-colored couch with a white box on top, a white t-shirt with a horizontal seam at the bottom, and a white cable running from the right side to the left side, with its end connected to a white object in the.",
+      "verdict": "MATCH",
+      "reason": "DOES NOT CONTRADICT",
+      "status": "normal"
+    },
+    "T_r1c2": {
+      "normalized_bbox": [
+        0.25,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r1c3": {
+      "normalized_bbox": [
+        0.375,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r1c4": {
+      "normalized_bbox": [
+        0.5,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r1c5": {
+      "normalized_bbox": [
+        0.625,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r1c6": {
+      "normalized_bbox": [
+        0.75,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r1c7": {
+      "normalized_bbox": [
+        0.875,
+        0.166667,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r2c0": {
+      "normalized_bbox": [
+        0.0,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a plastic cup with a white straw, a clear plastic cup with a white paper towel, and a person's leg in a dark suit, all on a table, with no visible changes to the state of the plastic cup with the white straw or the clear plastic cup with the white paper towel.",
+      "verdict": "MATCH",
+      "reason": "DOES NOT CONTRADICT:",
+      "status": "normal"
+    },
+    "T_r2c1": {
+      "normalized_bbox": [
+        0.125,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a white cable connected to a black rectangular object, which is positioned on a white surface, and the cable is visibly attached to the black object.",
+      "verdict": "MATCH",
+      "reason": "The baseline records a \"white cable connected to the box\", and the current image shows the cable connected to the black rectangular object. This observation matches the baseline's claim of a connected cable.",
+      "status": "normal"
+    },
+    "T_r2c2": {
+      "normalized_bbox": [
+        0.25,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a laptop with a red keyboard, and a white cable is connected to the laptop's left port, a white cable is connected to the laptop's right port, and a white cable is connected to the laptop's power port, all in a state consistent with the baseline.",
+      "verdict": "MATCH",
+      "reason": "The baseline records a white cable connected to the laptop's power port, and the current image shows the same cable connected to the power port, which is a state consistent with the baseline.",
+      "status": "normal"
+    },
+    "T_r2c3": {
+      "normalized_bbox": [
+        0.375,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "observation": "The image shows a black box with \"Scaling Physical AI\" text on its side, and four white cables connected to it: one to the left port, one to the right port, one to the power port, and one to the left port, all visibly connected to the box.",
+      "verdict": "MATCH",
+      "reason": "DOES NOT CONTRADICT",
+      "status": "normal"
+    },
+    "T_r2c4": {
+      "normalized_bbox": [
+        0.5,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a black box with \"Scaling Physical AI\" on its side, connected by a white cable to a power source, with the power cord plugged in, and the cable at the right port is visible.",
+      "verdict": "MATCH",
+      "reason": "The baseline states that the box is on a table with a power cord plugged in, and the cables are connected. The current image shows the box on a table, with a power cord plugged in, and a white cable connected to the power port and a white cable connected to the right port. The power cord is plugged in, and the cable at the right port is visible.",
+      "status": "normal"
+    },
+    "T_r2c5": {
+      "normalized_bbox": [
+        0.625,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "observation": "The laptop's power cord is visibly plugged into the power strip on the right side of the image, and the power port on the left end of the laptop is connected to the power strip.",
+      "verdict": "MATCH",
+      "reason": "DOES NOT CONTRADICT",
+      "status": "normal"
+    },
+    "T_r2c6": {
+      "normalized_bbox": [
+        0.75,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r2c7": {
+      "normalized_bbox": [
+        0.875,
+        0.333333,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r3c0": {
+      "normalized_bbox": [
+        0.0,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a light-colored, textured backrest of a woven chair, with a long, thin, light-colored object resting horizontally on its backrest, and a white cable extending from the backrest and plugged into a power strip on the left side of the image.",
+      "verdict": "MATCH",
+      "reason": "The baseline records the permanent physical state of the woven chair with a light-colored, textured backrest, and the long, thin, light-colored object resting on the backrest is connected to a white cable extending from a dark rectangular object on the left, which is plugged into a power strip on the right side of the image. The current state matches the baseline state.",
+      "status": "normal"
+    },
+    "T_r3c1": {
+      "normalized_bbox": [
+        0.125,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r3c2": {
+      "normalized_bbox": [
+        0.25,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "observation": "The image shows a dark, flat surface with a laptop positioned horizontally on it.",
+      "verdict": "MATCH",
+      "reason": "The baseline states that the laptop is on a flat, dark surface. The current image shows the same flat, dark surface with the laptop positioned horizontally. This matches the baseline claim.",
+      "status": "normal"
+    },
+    "T_r3c3": {
+      "normalized_bbox": [
+        0.375,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "observation": "The image shows a dark, flat surface with a black cable connected to a device on the right side, and a black cable with a silver connector on the left side, plugged into the device.",
+      "verdict": "MATCH",
+      "reason": "The baseline states that the permanent physical state is disconnected, but the current image shows a cable with a silver connector plugged into the device, which is a connected state.",
+      "status": "normal"
+    },
+    "T_r3c4": {
+      "normalized_bbox": [
+        0.5,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "observation": "The black cable is visibly connected to a blue device and a white device, with its left end plugged into the blue device and its right end plugged into the white device, both on a dark surface, with the cable positioned vertically.",
+      "verdict": "MATCH",
+      "reason": "The baseline states the cable is connected, and the current image shows the cable connected to both devices, with no visible disconnection or separation.",
+      "status": "normal"
+    },
+    "T_r3c5": {
+      "normalized_bbox": [
+        0.625,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "observation": "The image shows a thin, light-colored cable running from the top right corner to the bottom left corner, with its end connected to a device, which is a laptop.",
+      "verdict": "DEVIATION",
+      "reason": "The baseline states that the cable is unplugged, but the current state shows the cable is connected to a device. This contradicts the baseline's claim of a disconnected state.",
+      "status": "deviation"
+    },
+    "T_r3c6": {
+      "normalized_bbox": [
+        0.75,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a white cable connected to a black tablet, which is resting on a black table, with the cable extending from the tablet.",
+      "verdict": "MATCH",
+      "reason": "The baseline records a cable connected to the tablet, and the current state shows the cable connected to the tablet. The cable is not detached or disconnected.",
+      "status": "normal"
+    },
+    "T_r3c7": {
+      "normalized_bbox": [
+        0.875,
+        0.5,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r4c0": {
+      "normalized_bbox": [
+        0.0,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a dark brown, woven mesh material with a diagonal pattern, positioned against a lighter, textured background, with a small light-colored patch on the right side of the backrest, and a dark, textured surface on the left side, in a stationary state, with.",
+      "verdict": "MATCH",
+      "reason": "The baseline records a stationary state, and the current image shows a stationary state with no visible change or movement, which is consistent with the baseline's claim of a stationary state.",
+      "status": "normal"
+    },
+    "T_r4c1": {
+      "normalized_bbox": [
+        0.125,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r4c2": {
+      "normalized_bbox": [
+        0.25,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a light beige textured surface on the left, a dark blue area above, and a light gray textured surface on the right, with a small, round, metallic object attached to the right surface, and a dark brown woven wicker chair backrest against a dark background.",
+      "verdict": "MATCH",
+      "reason": "The baseline states that the permanent physical state is a light beige textured surface, a dark blue area, and a light gray textured surface, with a small, round, metallic object attached to the right surface. The current image shows the same surfaces, with the same object attached to the right surface. The object is a small, round, metallic object, and it is attached to the right surface. The state is consistent with the baseline description.",
+      "status": "normal"
+    },
+    "T_r4c3": {
+      "normalized_bbox": [
+        0.375,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "observation": "The dark brown woven wicker chair backrest is against a light-colored wall, with a small light-colored patch on the right side, and a white cable connected to its lower left side.",
+      "verdict": "MATCH",
+      "reason": "The white cable is visibly attached to the chair's lower left side, and the backrest is in place against the wall, matching the baseline description.",
+      "status": "normal"
+    },
+    "T_r4c4": {
+      "normalized_bbox": [
+        0.5,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a black umbrella with a white cable extending from its right end, and a black cable extending from its left end, both attached to the umbrella's frame.",
+      "verdict": "MATCH",
+      "reason": "DOES NOT CONTRADICT",
+      "status": "normal"
+    },
+    "T_r4c5": {
+      "normalized_bbox": [
+        0.625,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r4c6": {
+      "normalized_bbox": [
+        0.75,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "observation": "The black cable is visibly plugged into the outlet, showing a connection.",
+      "verdict": "DEVIATION",
+      "reason": "The baseline states the cable is unplugged, but the current state shows it is plugged in.",
+      "status": "deviation"
+    },
+    "T_r4c7": {
+      "normalized_bbox": [
+        0.875,
+        0.666667,
+        0.125,
+        0.166667
+      ],
+      "observation": "No calibration baseline was recorded for this tile.",
+      "verdict": "UNCERTAIN",
+      "reason": "A current image cannot be compared without a baseline.",
+      "status": "uncertain"
+    },
+    "T_r5c0": {
+      "normalized_bbox": [
+        0.0,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r5c1": {
+      "normalized_bbox": [
+        0.125,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r5c2": {
+      "normalized_bbox": [
+        0.25,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a dark, woven fabric surface with a white circular object attached to its right edge, positioned at the edge of the fabric, with the background as a blurred light-colored surface, and the white rectangular object connected to the fabric.",
+      "verdict": "MATCH",
+      "reason": "The baseline states that the permanent physical state is a dark woven fabric with a white circular object attached, which is consistent with the current image showing the same fabric and object.",
+      "status": "normal"
+    },
+    "T_r5c3": {
+      "normalized_bbox": [
+        0.375,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "observation": "The dark woven fabric surface has a small white circular object attached to its right side, and a white rectangular object connected to the fabric's right side, with the fabric on a dark textured surface and a blurred light-colored background.",
+      "verdict": "MATCH",
+      "reason": "The baseline records a white circular object attached to the dark woven fabric surface, which is consistent with the current image showing the same object attached to the fabric.",
+      "status": "normal"
+    },
+    "T_r5c4": {
+      "normalized_bbox": [
+        0.5,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "observation": "The black cable is clearly attached to a device on the left side of the frame and is plugged into a power strip on the right side, which is connected to a wall outlet, indicating a stable, connected state.",
+      "verdict": "MATCH",
+      "reason": "DOES NOT CONTRADICT",
+      "status": "normal"
+    },
+    "T_r5c5": {
+      "normalized_bbox": [
+        0.625,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r5c6": {
+      "normalized_bbox": [
+        0.75,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "observation": "No material pixel change is visible from calibration.",
+      "verdict": "MATCH",
+      "reason": "The difference gate retained the baseline-normal status.",
+      "status": "normal"
+    },
+    "T_r5c7": {
+      "normalized_bbox": [
+        0.875,
+        0.833333,
+        0.125,
+        0.166667
+      ],
+      "observation": "The current image shows a dark, textured surface with a yellow and black striped object at the bottom left corner, and a black cable extending from the yellow strip to the lower right corner, with its black end connected to a point.",
+      "verdict": "MATCH",
+      "reason": "The baseline records a yellow strip at the bottom left corner of a dark, textured surface, with its yellow end connected to a black cable extending to the lower right corner, and the black end of the cable connected to a point.",
+      "status": "normal"
+    }
+  }
+}
