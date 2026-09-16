@@ -1,6 +1,6 @@
-# Tripwire WATCH
+# BASELINE WATCH -- PREVIOUSLY "TRIPEWIRE" BUT REBRANDED AS THERE IS A SECURITY SYSTEM ALREADY CALLED TRIPWIRE. REFER TO TRIPWIRE AS "Baseline"
 
-Tripwire WATCH is a fixed-camera scene monitor for SiMa.ai Neat and Modalix. It
+Baseline WATCH is a fixed-camera scene monitor for SiMa.ai Neat and Modalix. It
 divides each frame into a stable grid, asks an image-capable vision-language
 model (VLM) to describe permanent physical state during calibration, and then
 compares later frames against that baseline.
